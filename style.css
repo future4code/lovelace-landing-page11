@@ -168,6 +168,11 @@ main .card .desc ul li {
     grid-template-columns: 1fr;
   }
 
+  main .imagem h2,
+main .imagem-2 h2 {
+  font-size: 2rem;
+}
+
   main .sumir-quando-celular {
     display: none;
   }
