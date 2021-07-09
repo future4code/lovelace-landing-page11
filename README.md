@@ -1,7 +1,7 @@
-# landing-page-template
+# F4LIFE
 
 ### Website:
-aqui vai nosso link final do surge
+smart-earth.surge.sh
 
 ### Resumo do projeto:
 Landing page desenvolvida em trabalho em grupo, como parte de projeto final de módulo HTML e CSS. 
@@ -20,6 +20,4 @@ Landing page desenvolvida em trabalho em grupo, como parte de projeto final de m
 * Compartilhados - onde você vai encontrar nossas hospedagens e estilo compartilhado, com fotos e detalhes;
 * Sobre nós - informações sobre a história e missão da nossa empresa;
 * Contato - informações de como entrar em contato com a nossa equipe.
-
-
-
+* Footer - informações finais com redes sociais
