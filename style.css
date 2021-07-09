@@ -177,3 +177,17 @@ main .imagem-2 h2 {
     display: none;
   }
 }
+
+footer{
+  position: fixed;
+  bottom: 0px;
+  width: 100%;
+  background: #132235;
+  padding: 20px 0;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
