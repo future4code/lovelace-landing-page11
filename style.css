@@ -177,3 +177,50 @@ main .imagem-2 h2 {
     display: none;
   }
 }
+
+/* estilos germanana */
+
+.nosso-contato {
+  display: flex;
+  justify-content: space-around;
+  height: 50vh;
+  align-items: center;
+  
+}
+
+.logo-texto {
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  width: 150px;
+}
+
+.titulo {
+  display:flex;
+  justify-content: center;
+  padding-top: 40px;
+}
+
+#quem-somos {
+  display: flex;
+  gap: 30px;
+  padding: 20px;
+}
+
+#imagem-fundo {
+  width: 50%;
+  opacity: 0.4;
+  position:relative
+}
+
+#titulo-quem-somos {
+  margin-top: 0;
+}
+
+#textos-quem-somos {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+ }
