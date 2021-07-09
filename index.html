@@ -5,6 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
   <link rel="stylesheet" href="./style.css">
   <title>F4LIFE</title>
 </head>
@@ -14,9 +15,9 @@
     <a href="./index.html"><img src="./logo.PNG" alt="logotipo" class="logo"></a>
     <nav>
       <ul class="menu">
-        <li><a href="#sobre">sobre</a></li>
         <li><a href="#kitnet">kitnet</a></li>
         <li><a href="#compartilhados">compartilhados</a></li>
+        <li><a href="#sobre">sobre</a></li>
         <li><a href="#contato">contato</a></li>
       </ul>
     </nav>
@@ -217,7 +218,7 @@
       </div>
     </section>
 
-    <section>
+    <section id="sobre">
       <h1 class="titulo">Quem somos nós?</h1>
       <div id="quem-somos">
         <img id="imagem-fundo" src="./aptofundo.jpg" alt="apartamento decorado">
@@ -245,28 +246,30 @@
       <hr>
     </section>
     
-
-    <section>
+    <section id="contato">
       <h1 class="titulo">Nossos contatos</h1>
-      <div class="nosso-contato">
-        <div class="logo-texto">
-          <img class="logo" src="email.svg" alt="logo de carta pequeno">
-          <p>f4life@gmail.com</p>
-        </div>
-
+      <div class="contato-container">
         <div class="nosso-contato">
           <div class="logo-texto">
-            <img class="logo" src="endereco.svg" alt="logo de casa pequeno">
-            <p>Rua dos Sonhos, 420
-              <br>São Paulo SP
-            </p>
+            <img class="logo" src="email.svg" alt="logo de carta pequeno">
+            <p>f4life@gmail.com</p>
           </div>
-        </div>
+          <div class="nosso-contato">
+            <div class="logo-texto">
+              <img class="logo" src="endereco.svg" alt="logo de casa pequeno">
+              <p>Rua dos Sonhos, 420
+                <br>São Paulo SP
+              </p>
+            </div>
+          </div>
+      </div>
     </section>
-
   </main>
+
+  <hr>
+
   <footer>
-    <div class="container">
+    <div class="footer-container">
       <div>
         <h2>Sobre nós</h2> <br>
         <div class="content">
@@ -274,7 +277,7 @@
             reiciendis necessitatibus</p>
         </div>
       </div>
-      <div>
+      <div class="endereco">
         <div class="content">
           <div class="place">
             <span class="fas fa-map-marker"></span>
