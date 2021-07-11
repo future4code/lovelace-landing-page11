@@ -1,7 +1,7 @@
 # F4LIFE
 
 ### Website:
-smart-earth.surge.sh
+grey-heat.surge.sh
 
 ### Resumo do projeto:
 Landing page desenvolvida em trabalho em grupo, como parte de projeto final de módulo HTML e CSS. 
