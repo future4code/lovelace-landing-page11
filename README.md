@@ -16,8 +16,9 @@ Landing page desenvolvida em trabalho em grupo, como parte de projeto final de m
 * CSS
 
 ### Seções que compõem o site:
-* Kitnets - onde você vai encontrar nossas kitnets disponíveis, com fotos e detalhes;
-* Compartilhados - onde você vai encontrar nossas hospedagens e estilo compartilhado, com fotos e detalhes;
-* Sobre nós - informações sobre a história e missão da nossa empresa;
-* Contato - informações de como entrar em contato com a nossa equipe.
-* Footer - informações finais com redes sociais
+* Sobre - informações sobre a história e missão da nossa empresa;
+* Moradias - Informações sobre os nossos produtos.
+* Preços - Informações sobre os valores de nossos serviços.
+* Qualidade - Informações de alguns valores que seguimos.
+* Newsletter - Para adicionar seu e-mail para receber novidades.
+* Footer - informações finais.
